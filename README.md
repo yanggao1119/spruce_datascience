@@ -2,6 +2,7 @@ GENERAL INSTRUCTION
 ===================
 
 1. to run experiment pipeline, from preprocessing raw data to final prediction result, do:
+
     $ cd exp
 
     $ sh run.sh
